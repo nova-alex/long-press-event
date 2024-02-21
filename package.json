@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/john-doherty/long-press-event.git"
+    "url": "git+https://github.com/nova-alex/long-press-event.git"
   },
   "bugs": {
-    "url": "https://github.com/john-doherty/long-press-event/issues"
+    "url": "https://github.com/nova-alex/long-press-event/issues"
   },
   "keywords": [
     "long-press",

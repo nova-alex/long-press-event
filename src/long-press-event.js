@@ -1,7 +1,7 @@
 /*!
  * long-press-event - v@version@
  * Pure JavaScript long-press-event
- * https://github.com/john-doherty/long-press-event
+ * https://github.com/nova-alex/long-press-event
  * @author John Doherty <www.johndoherty.info>
  * @license MIT
  */

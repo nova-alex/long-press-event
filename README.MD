@@ -79,7 +79,7 @@ The project includes everything needed to tweak, including a node webserver. Run
 _You can test on a desktop using [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/) in Google Chrome._
 
 ```bash
-git clone https://github.com/john-doherty/long-press-event
+git clone https://github.com/nova-alex/long-press-event
 cd long-press
 npm install
 npm start
@@ -99,7 +99,7 @@ If you find this useful, please star the repo. It helps me prioritise which open
 
 ## History
 
-For change-log, check [releases](https://github.com/john-doherty/long-press-event/releases).
+For change-log, check [releases](https://github.com/nova-alex/long-press-event/releases).
 
 ## License
 
